@@ -1,0 +1,2 @@
+<?php
+namespace App\Models; use Illuminate\Database\Eloquent\Model; class LaptopDetail extends Model {protected $fillable=['model','brand','processor','ram','storage','display_size','display_status','screen_condition','battery_condition','remarks','quantity','buying_price','selling_price'];}

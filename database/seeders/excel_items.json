@@ -1,0 +1,658 @@
+[
+  {
+    "name": "80GB HARDDRIVE LAPTOP",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "160GB HARDDRIVE LAPTOP",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "250GB HARDDRIVE LAPTOP",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "320GB HARDRIVE LAPTOP",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "500GB HARDDRIVE LAPTOP",
+    "quantity": 4,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "NEW 500GB HARDDRIVE LAPTOP",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "750GB HAEDDRIVE",
+    "quantity": 4,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "640GB HARDDRIVE",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1TB HARDDRIVE LAPTOP",
+    "quantity": 6,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "128GB SSD USED",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "128GB SSD NEW",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "256GB SSD NEW",
+    "quantity": 4,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "256GB SSD USED",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "512GB SSD USED",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1TB SSD NEW",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1TB SSD M.2 NEW",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "128GB M.2",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "256GB SSD M.2 USED",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1TB WD EXTERNAL DRIVE",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1TB SEAGATE EXTERNAL DRIVE",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "80GB HARDDRIVE PC",
+    "quantity": 3,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "160GB HARDDRIVE PC",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "250GB HARDDRIVE PC",
+    "quantity": 2,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "320GB HARDRIVE PC",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "500GB HARDDRIVE PC",
+    "quantity": 7,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "NEW 500GB HARDDRIVE PC",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1TB HARDDRIVE PC",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "2TB HARDDRIVE PC",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "2GB RAM",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "4GB RAM NEW",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "4GB RAM USED",
+    "quantity": 9,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "8GB RAM NEW",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "8GB RAM USED",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "8GB RAM",
+    "quantity": 2,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "16GB RAM NEW",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "16GB RAM USED",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1GB RAM",
+    "quantity": 3,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "1GB G-CARD",
+    "quantity": 4,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "2GB G-CARD",
+    "quantity": 6,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "2nd GEN desktop stone",
+    "quantity": 5,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "3ird Gen desktop",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "4th Gen tower lenovo",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "6th Gen desktop",
+    "quantity": 3,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "6th Gen mini tower",
+    "quantity": 2,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "20 inch lcd wide fresh",
+    "quantity": 0,
+    "selling_price": 7500.0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "22 inch lcd wide fresh",
+    "quantity": 2,
+    "selling_price": 8500.0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "22 inch lcd wide fresh boarder less",
+    "quantity": 0,
+    "selling_price": 12500.0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "19 inch lcd wide used",
+    "quantity": 0,
+    "selling_price": 3500.0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "2nd Gen desktop",
+    "quantity": 4,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "4ird Gen desktop",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "6th gen tower",
+    "quantity": 2,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "6th Gen gaming tower",
+    "quantity": 1,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "RAMS-HARDS",
+    "category": "RAMs & Hard Drives"
+  },
+  {
+    "name": "dell i - series",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "dell core 2 Duo",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "hp i-series",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "hp core-2-Duo",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "lenovo i-series",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "lenovo core -2-duo",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "sony, acer, toshiba ,advent , asus , i-series",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "sony, acer, toshiba ,advent , asus",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "mac books",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "2nd Gen desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "3ird Gen desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "4ird Gen desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "6th Gen desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "6th gen tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "6th Gen gaming tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "hp core 2 duo tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "hp core 2 duo desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "hp i-series tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "hp i-series desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "dell core 2 do tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "dell core 2 do desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "dell i-series tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "dell i-series desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "lenovo core 2 duo tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "lenovo core 2 duo desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "lenovo i-series tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "lenovo i-series desktop",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "LG i-series tower",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "acer & stone desktop i-series",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  },
+  {
+    "name": "mini pc",
+    "quantity": 0,
+    "selling_price": 0,
+    "buying_price": 0,
+    "source_sheet": "SCRAPED ALL",
+    "category": "Computer Scrap"
+  }
+]

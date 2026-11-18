@@ -1,0 +1,2 @@
+<?php
+namespace App\Models; use Illuminate\Database\Eloquent\Model; class Sale extends Model {protected $fillable=['invoice_no','customer_id','customer_name','sale_date','subtotal','discount','total','paid_amount','sale_type','notes']; protected $casts=['sale_date'=>'date']; public function items(){return $this->hasMany(SaleItem::class);} public function payments(){return $this->hasMany(SalePayment::class);} public function getDueAttribute(){return max(0,(float)$this->total-(float)$this->paid_amount);}}

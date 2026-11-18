@@ -1,0 +1,2 @@
+<?php
+namespace App\Models; use Illuminate\Database\Eloquent\Model; class Purchase extends Model {protected $fillable=['purchase_no','supplier_id','purchase_date','subtotal','paid_amount','total','notes']; protected $casts=['purchase_date'=>'date']; public function items(){return $this->hasMany(PurchaseItem::class);} public function payments(){return $this->hasMany(PurchasePayment::class);} public function getDueAttribute(){return max(0,(float)$this->total-(float)$this->paid_amount);}}

@@ -1,0 +1,2 @@
+<?php
+namespace App\Models; use Illuminate\Database\Eloquent\Model; class Item extends Model {protected $fillable=['category_id','sku','name','brand','source_sheet','description','buying_price','selling_price','quantity','low_stock_limit']; public function category(){return $this->belongsTo(Category::class);} public function saleItems(){return $this->hasMany(SaleItem::class);} public function purchaseItems(){return $this->hasMany(PurchaseItem::class);} public function stockMovements(){return $this->hasMany(StockMovement::class);}}
